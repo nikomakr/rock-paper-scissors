@@ -1,6 +1,10 @@
 # rock-paper-scissors
+
+## Part of Course work
+
 Rock Paper Scissors Game
-User Story
+
+### User Story
 1. Initialise `choices` array: r, p, s. representing rock, paper, or scissors.
 2. Prompt user to enter "r," "p," or "s".
 3. Computer chooses a **random** value in a list of "r," "p," or "s."
@@ -18,3 +22,9 @@ User Story
    * If user loses, then we add one to their losses.
    * If user ties, then we add one to their ties
 6. Prompt user to play again.
+
+## Credits
+
+As a student of edX - Skills for life - skills bootcamps here: https://skillsforlife.edx.org and precisely Front-End developer / Web Development course I reference any code you might see as a copy or partially copy or influenced by the repo here: https://git.bootcampcontent.com/uk-edx-16-week/UK-VIRT-FE-PT-09-2023-U-LOLC.git
+
+© 2023 edX Boot Camps LLC
